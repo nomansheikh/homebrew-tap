@@ -1,6 +1,6 @@
 cask "kiln" do
-  version "0.1.0"
-  sha256 "80c42dc07d59148049eea95eb0b0c2d2c2c60dd632c96de5d272a441dfd430dc"
+  version "0.2.0"
+  sha256 "e3b80da372a4ba2f39891f9f6f189b3840005991947196e87832b7d1f790af26"
 
   url "https://github.com/nomansheikh/kiln/releases/download/v#{version}/Kiln-#{version}.dmg"
   name "Kiln"
